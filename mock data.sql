@@ -1,0 +1,106 @@
+-- insert into Users (username, email, password) values ('Gardy Norbury', 'gnorbury0@blogtalkradio.com', '$2a$04$cRaf02QgxshLDWG1qucuS..tcDton8fxOnOlo.fP6ZAyR/hEK3buy');
+-- insert into Users (username, email, password) values ('Dougie Sears', 'dsears1@ucsd.edu', '$2a$04$CyA/5Z3CLT8MbefeA5tYbelh6jEbWhMM3CXdPybJCqeK45UHLp4ka');
+-- insert into Users (username, email, password) values ('Tanney Keer', 'tkeer2@gov.uk', '$2a$04$fdylDD/k6cHChHyteLtHH.45MLdANgnwINVXZjcbmnaB0EtIFEpfK');
+-- insert into Users (username, email, password) values ('Emogene Arndell', 'earndell3@tripod.com', '$2a$04$l6csFcaGqV5AmPyUxEzHPO1pvJdPWru2sK6fC3qnhHlRljZ5w4JTC');
+-- insert into Users (username, email, password) values ('Serene Perroni', 'sperroni4@engadget.com', '$2a$04$qqIJhQtrMKX91pOvZDDdMewJbjvJJhB11a4k0AQRLzWDkDP0/sEQ6');
+-- insert into Users (username, email, password) values ('Gwynne Keats', 'gkeats5@businessinsider.com', '$2a$04$wn5jfVYoqhqZ1oeFUJs/tu69fCt02Zww5cxqq025XR5mgtLlKVFT2');
+-- insert into Users (username, email, password) values ('Peyton Pelerin', 'ppelerin6@unesco.org', '$2a$04$0wiRz6Vh0tqVnjfy6tnjIO7UApPX3pQhnNxatCo1BNzmuwCdsldmS');
+-- insert into Users (username, email, password) values ('Danila Aslet', 'daslet7@usda.gov', '$2a$04$zm5T4RMZJznI7HZ28hxFVeDKryLw/jverd.7an3ytFegra1r/hhxe');
+-- insert into Users (username, email, password) values ('Ciel Lampard', 'clampard8@apple.com', '$2a$04$1/7v9YJqCAPZ4bKfHP6afuLUF/IhycGxQuqi6QDApwgkq0vFZQYrO');
+-- insert into Users (username, email, password) values ('Thomasina Fardell', 'tfardell9@google.com.au', '$2a$04$P7ZgSdpexQOyzzMzkdeNIuVCGa5a2bQncbHgks33TR6e1zfGKhUkK');
+
+
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (9, 'Leeanne Blacksland', 'Aliquam non mauris. Morbi non lectus.', 'Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum.', '2024/01/15, 08:12:34');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (10, 'Lucas Pritchard', 'Fusce posuere felis sed lacus.', 'Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.', '2023/11/28, 14:45:21');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (6, 'Lola McWilliams', 'In sagittis dui vel nisl.', 'In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl.', '2023/09/03, 02:40:12');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (6, 'George Wolfart', 'Praesent id massa id nisl venenatis lacinia.', 'Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.', '2024/02/29, 09:23:56');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (2, 'Thurston Denzey', 'Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.', 'Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla.', '2023/07/12, 18:30:15');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (10, 'Willow Caughey', 'Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa.', 'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo.', '2024/05/05, 03:56:42');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (1, 'Dorolisa Latham', 'Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit.', 'Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti.', '2023/04/20, 11:20:08');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (8, 'Kerrill Barttrum', 'Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.', 'Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.', '2024/08/09, 22:10:39');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (8, 'Moreen Touret', 'Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est.', 'Nunc purus. Phasellus in felis. Donec semper sapien a libero.', '2023/12/31, 05:34:17');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (2, 'Darla Sebire', 'Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.', 'Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.', '2024/03/17, 16:07:53');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (1, 'Haskell Gertz', 'Integer ac neque. Duis bibendum.', 'Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.', '2023/06/23, 01:48:26');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (1, 'Dolorita McDonell', 'Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla.', 'Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue.', '2024/10/11, 19:15:59');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (9, 'Tally Trippick', 'Nulla ac enim.', 'Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus.', '2023/02/14, 07:29:04');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (3, 'Perkin Bowdon', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.', 'Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.', '2024/09/01, 12:51:28');
+-- insert into recipe (user_id, title, description, instructions, creation_date) values (1, 'Patty Downing', 'Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus.', 'Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti.', '2023/08/06, 20:03:47');
+
+-- INSERT INTO Ingredients (name) VALUES
+-- ('Flour'),
+-- ('Sugar'),
+-- ('Salt'),
+-- ('Butter'),
+-- ('Eggs'),
+-- ('Milk'),
+-- ('Baking Powder'),
+-- ('Vanilla Extract'),
+-- ('Chocolate Chips'),
+-- ('Vegetable Oil'),
+-- ('Garlic'),
+-- ('Onion'),
+-- ('Tomato'),
+-- ('Basil'),
+-- ('Oregano'),
+-- ('Parmesan Cheese'),
+-- ('Lemon'),
+-- ('Honey'),
+-- ('Soy Sauce'),
+-- ('Rice');
+
+-- DELETE FROM Recipe;
+
+-- INSERT INTO Recipe (user_id, title, description, instructions, creation_date) VALUES
+-- (1, 'Chocolate Chip Cookies', 'Classic chocolate chip cookies', '1. Preheat oven to 350°F (175°C).\n2. In a large bowl, cream together the butter, white sugar, and brown sugar until smooth. Beat in the eggs one at a time, then stir in the vanilla. Dissolve baking soda in hot water. Add to batter along with salt. Stir in flour, chocolate chips, and nuts. Drop by large spoonfuls onto ungreased pans.\n3. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.', '2023-05-10 08:00:00'),
+-- (2, 'Spaghetti Bolognese', 'Classic Italian pasta dish', '1. Heat olive oil in a large skillet over medium heat. Add onions, carrots, and celery. Cook, stirring occasionally, until vegetables are soft, about 5 minutes.\n2. Add ground beef and cook until browned, breaking it up with a spoon. Drain excess fat.\n3. Stir in garlic, tomato paste, and diced tomatoes. Bring to a simmer and cook for about 20 minutes, until sauce thickens.\n4. Meanwhile, cook spaghetti according to package instructions. Drain.\n5. Serve spaghetti topped with bolognese sauce and grated Parmesan cheese.', '2023-06-15 12:30:00'),
+-- (3, 'Chicken Stir Fry', 'Quick and easy stir-fry recipe', '1. Heat oil in a large skillet or wok over high heat. Add chicken and cook until browned and cooked through.\n2. Add vegetables and cook until just tender, about 5 minutes.\n3. In a small bowl, whisk together soy sauce, sesame oil, ginger, and garlic.\n4. Pour sauce over chicken and vegetables. Stir to combine and cook for an additional 2 minutes.\n5. Serve hot over rice or noodles.', '2023-07-20 18:00:00'),
+-- (4, 'Caprese Salad', 'Simple Italian salad', '1. Slice tomatoes and mozzarella cheese into 1/4 inch thick slices.\n2. Arrange tomato and mozzarella slices on a serving platter, alternating and overlapping them.\n3. Drizzle with olive oil and balsamic glaze.\n4. Season with salt, pepper, and fresh basil leaves.\n5. Serve immediately.', '2023-08-25 10:00:00'),
+-- (5, 'Vegetable Curry', 'Delicious vegetarian curry', '1. Heat oil in a large pot over medium heat. Add onions, garlic, and ginger. Cook until onions are soft, about 5 minutes.\n2. Add curry powder, turmeric, and cumin. Cook for 1 minute, stirring constantly.\n3. Stir in diced tomatoes, coconut milk, and vegetable broth. Bring to a simmer.\n4. Add vegetables and chickpeas. Cook until vegetables are tender, about 20 minutes.\n5. Serve hot over rice or with naan bread.', '2023-09-30 14:00:00'),
+-- (6, 'Grilled Salmon with Lemon Butter Sauce', 'A healthy and flavorful seafood dish', '1. Preheat grill to medium-high heat.\n2. Season salmon fillets with salt, pepper, and olive oil.\n3. Place salmon fillets on the grill and cook for 4-5 minutes on each side, or until fish flakes easily with a fork.\n4. In a small saucepan, melt butter over medium heat. Stir in lemon juice and garlic.\n5. Serve grilled salmon with lemon butter sauce drizzled on top.', '2023-10-10 16:30:00'),
+-- (7, 'Homemade Pizza', 'Create your own delicious pizza at home', '1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a lightly floured surface.\n3. Spread pizza sauce evenly over the dough, leaving a small border around the edges.\n4. Sprinkle shredded mozzarella cheese over the sauce.\n5. Add your favorite toppings such as pepperoni, mushrooms, bell peppers, and olives.\n6. Bake in the preheated oven for 10-12 minutes, or until crust is golden and cheese is bubbly.', '2023-11-20 19:45:00'),
+-- (8, 'Beef Tacos', 'A crowd-pleasing Tex-Mex favorite', '1. Heat oil in a large skillet over medium-high heat.\n2. Add ground beef and cook until browned, breaking it up with a spoon.\n3. Stir in taco seasoning and water. Simmer for 5-7 minutes, until sauce thickens.\n4. Warm taco shells in the oven or microwave.\n5. Fill taco shells with beef mixture and top with shredded lettuce, diced tomatoes, shredded cheese, and salsa.\n6. Serve hot with lime wedges and sour cream.', '2023-12-05 17:00:00'),
+-- (9, 'Pasta Primavera', 'A light and colorful pasta dish', '1. Cook pasta according to package instructions. Drain and set aside.\n2. Heat olive oil in a large skillet over medium heat. Add garlic and sauté for 1 minute.\n3. Add bell peppers, broccoli, and carrots. Cook until vegetables are tender-crisp.\n4. Stir in cherry tomatoes and cook for an additional 2 minutes.\n5. Toss cooked pasta with the vegetable mixture.\n6. Season with salt, pepper, and grated Parmesan cheese.\n7. Serve hot with crusty bread.', '2024-01-15 12:00:00'),
+-- (10, 'Berry Smoothie Bowl', 'A refreshing and nutritious breakfast option', '1. Blend mixed berries, banana, yogurt, and honey until smooth.\n2. Pour the smoothie into a bowl.\n3. Top with granola, sliced bananas, strawberries, and chia seeds.\n4. Drizzle with additional honey, if desired.\n5. Serve immediately and enjoy!', '2024-02-10 08:30:00'),
+-- (5, 'Mushroom Risotto', 'Creamy Italian rice dish with mushrooms', '1. Heat olive oil in a large skillet over medium heat. Add onions and garlic, cook until softened.\n2. Add Arborio rice and stir until coated with oil.\n3. Pour in white wine and cook until absorbed.\n4. Gradually add vegetable broth, stirring constantly, until rice is tender and creamy.\n5. Stir in sautéed mushrooms, Parmesan cheese, and butter until well combined.\n6. Season with salt and pepper to taste.\n7. Serve hot, garnished with fresh parsley.', '2024-03-05 14:00:00'),
+-- (3, 'Beef Stroganoff', 'Hearty Russian beef and mushroom dish', '1. Heat oil in a large skillet over medium-high heat. Add thinly sliced beef and cook until browned.\n2. Remove beef from skillet and set aside. In the same skillet, add sliced mushrooms and onions. Cook until mushrooms are golden brown and onions are soft.\n3. Stir in flour and cook for 1 minute.\n4. Gradually whisk in beef broth and bring to a simmer.\n5. Return cooked beef to the skillet and stir in sour cream.\n6. Cook until heated through.\n7. Serve over cooked egg noodles, garnished with fresh parsley.', '2024-04-10 12:30:00'),
+-- (9, 'Chicken Caesar Salad', 'Classic salad with grilled chicken and Caesar dressing', '1. Season chicken breasts with salt, pepper, and olive oil.\n2. Grill chicken over medium-high heat until cooked through, about 6-8 minutes per side.\n3. In a large bowl, toss together chopped romaine lettuce, croutons, and grated Parmesan cheese.\n4. Slice grilled chicken and add to the salad.\n5. Drizzle with Caesar dressing and toss until well coated.\n6. Serve immediately, with extra Parmesan cheese and cracked black pepper.', '2024-05-15 11:00:00'),
+-- (4, 'Vegetarian Chili', 'Hearty and flavorful meatless chili', '1. Heat olive oil in a large pot over medium heat. Add diced onions, bell peppers, and carrots. Cook until vegetables are soft.\n2. Stir in minced garlic, chili powder, cumin, and paprika. Cook for 1 minute.\n3. Add canned diced tomatoes, kidney beans, black beans, and vegetable broth.\n4. Bring to a simmer and cook for 20-30 minutes, until flavors are well blended.\n5. Season with salt and pepper to taste.\n6. Serve hot, garnished with chopped cilantro and a dollop of sour cream.', '2024-06-20 09:30:00'),
+-- (7, 'Lemon Garlic Shrimp Pasta', 'Quick and delicious seafood pasta dish', '1. Cook pasta according to package instructions. Drain and set aside.\n2. Heat olive oil in a large skillet over medium heat. Add minced garlic and cook until fragrant.\n3. Add shrimp to the skillet and cook until pink and opaque.\n4. Stir in lemon juice, lemon zest, and chopped parsley.\n5. Toss cooked pasta with shrimp mixture until well combined.\n6. Season with salt and pepper to taste.\n7. Serve hot, garnished with grated Parmesan cheese.', '2024-07-25 16:00:00');
+
+-- INSERT INTO Ingredients (name) VALUES
+-- ('White Wine'),
+-- ('Arborio Rice'),
+-- ('Vegetable Broth'),
+-- ('Mushrooms'),
+-- ('Beef'),
+-- ('Sour Cream'),
+-- ('Beef Broth'),
+-- ('Egg Noodles'),
+-- ('Chicken Broth'),
+-- ('Romaine Lettuce'),
+-- ('Croutons'),
+-- ('Chicken Breasts'),
+-- ('Caesar Dressing'),
+-- ('Bell Peppers'),
+-- ('Carrots'),
+-- ('Kidney Beans'),
+-- ('Black Beans'),
+-- ('Cilantro'),
+-- ('Garlic'),
+-- ('Chili Powder'),
+-- ('Cumin'),
+-- ('Paprika'),
+-- ('Diced Tomatoes'),
+-- ('Shrimp'),
+-- ('Pasta'),
+-- ('Lemon Juice'),
+-- ('Parsley');
+
+
+-- INSERT INTO IngredientList (recipe_id, ingredient_id, quantity_kg) VALUES
+-- (16, 1, 2),   -- Recipe 1, Ingredient 1 (Flour), quantity: 2 units
+-- (16, 2, 1),   -- Recipe 1, Ingredient 2 (Sugar), quantity: 1 unit
+-- (16, 3, 7.5), -- Recipe 1, Ingredient 3 (Salt), quantity: 0.5 units
+-- (17, 4, 3),   -- Recipe 2, Ingredient 4 (Butter), quantity: 3 units
+-- (17, 5, 2),   -- Recipe 2, Ingredient 5 (Eggs), quantity: 2 units
+-- (17, 6, 1.5) -- Recipe 2, Ingredient 6 (Milk), quantity: 1.5 units
